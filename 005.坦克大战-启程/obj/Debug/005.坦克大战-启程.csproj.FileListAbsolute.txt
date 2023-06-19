@@ -1,0 +1,11 @@
+D:\VS practice\第三季—坦克大战\005.坦克大战-启程\bin\Debug\005.坦克大战-启程.exe.config
+D:\VS practice\第三季—坦克大战\005.坦克大战-启程\bin\Debug\005.坦克大战-启程.exe
+D:\VS practice\第三季—坦克大战\005.坦克大战-启程\bin\Debug\005.坦克大战-启程.pdb
+D:\VS practice\第三季—坦克大战\005.坦克大战-启程\obj\Debug\005.坦克大战-启程.csproj.AssemblyReference.cache
+D:\VS practice\第三季—坦克大战\005.坦克大战-启程\obj\Debug\005.坦克大战-启程.csproj.SuggestedBindingRedirects.cache
+D:\VS practice\第三季—坦克大战\005.坦克大战-启程\obj\Debug\_005.坦克大战_启程.Properties.Resources.resources
+D:\VS practice\第三季—坦克大战\005.坦克大战-启程\obj\Debug\005.坦克大战-启程.csproj.GenerateResource.cache
+D:\VS practice\第三季—坦克大战\005.坦克大战-启程\obj\Debug\005.坦克大战-启程.csproj.CoreCompileInputs.cache
+D:\VS practice\第三季—坦克大战\005.坦克大战-启程\obj\Debug\005.坦克大战-启程.exe
+D:\VS practice\第三季—坦克大战\005.坦克大战-启程\obj\Debug\005.坦克大战-启程.pdb
+D:\VS practice\第三季—坦克大战\005.坦克大战-启程\obj\Debug\_005.坦克大战_启程.Form1.resources
